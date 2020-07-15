@@ -1,4 +1,4 @@
-## About Me 🤔
+### About Me 🤔
 
 My name is Weslen Nascimento, I was born in Brazil, in 2000, and today I live in São Paulo. I study computer science on my own and sometimes I make cool things with it (just sometimes)
 
