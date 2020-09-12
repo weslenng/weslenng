@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://i.imgur.com/8PgHV7J.png" width="128" /> Welcome!</h2>
+<h2 align="center"><img src="https://i.imgur.com/8PgHV7J.png" width="128" /> - Welcome!</h2>
 
 ### About Me 🤔
 
