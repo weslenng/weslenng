@@ -2,7 +2,7 @@
 
 ### About Me 🤔
 
-My name is Weslen Nascimento, I was born in Brazil, in 2000, and currently I live in São Paulo. I study computer science on my own and sometimes I make [cool things](https://github.com/weslenng-labs) with it
+My name is Weslen Guerreiro, I was born in Brazil, in 2000, and currently I live in São Paulo. I study computer science on my own and sometimes I make [cool things](https://github.com/weslenng-labs) with it
 
 - Currently learning some ML languages 🐫 💖
 - Working at [Red Ventures](https://www.redventures.com/) as Software Engineer ⚙️
