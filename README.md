@@ -4,9 +4,11 @@
 
 My name is Weslen Guerreiro, I was born in Brazil, in 2000, and currently I live in São Paulo. I study computer science on my own and sometimes I make [cool things](https://github.com/nglabo) with it
 
-- Doing open source for a while 💖
+***
+
+- I'm doing open source for a while 💖
 - Currently in love with ML languages 🐫
-- Failing as a writer at [NG Labo](https://nglabo.com/) 📝
+- I post boring stuff on my personal blog as well. [T̶a̶k̶e̶ ̶a̶ ̶l̶o̶o̶k̶](https://nglabo.com/) 📝
 
 ### Contact 💬
 
