@@ -9,7 +9,7 @@ I̶ ̶p̶o̶s̶t̶ ̶b̶o̶r̶i̶n̶g̶ ̶s̶t̶u̶f̶f̶ ̶o̶n̶ ̶m̶y̶ ̶p�
 ***
 
 - Doing open source for a while 💖
-- Currently in love with ML languages 🐫
+- Learning some ML languages 🐫
 
 ### Contact 💬
 
