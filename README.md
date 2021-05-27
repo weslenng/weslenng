@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://i.imgur.com/NwimNE2.png" height="256" /> - Welcome!⚡🍏</h2>
+<h2 align="center"><img src="https://i.imgur.com/8PgHV7J.png" height="128" /> - Welcome!⚡🍏</h2>
 
 ### About Me 🤔
 
